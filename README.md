@@ -1,7 +1,6 @@
 ## KM-Depatcher
 
 ### Members
-
 > Daniel Muthama
 > Gabriel Musanga
 > Irene
